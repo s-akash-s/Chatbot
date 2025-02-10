@@ -1,0 +1,14 @@
+# Ignore compiled Python files
+modules/__pycache__
+
+# Ignore model files
+modules/models/
+
+# Ignore environment files
+*.env
+
+# Ignore any log files
+*.log
+
+# Ignore Docker cache (if applicable)
+.dockerignore
