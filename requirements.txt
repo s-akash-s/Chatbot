@@ -1,0 +1,6 @@
+streamlit==1.42.0
+requests
+beautifulsoup4
+llama-cpp-python
+torch
+openai
