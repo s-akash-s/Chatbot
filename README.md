@@ -27,7 +27,8 @@ LLama - https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGUF/blob/main/llama-2-7
 Mistral - https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.1-GGUF/blob/main/mistral-7b-instruct-v0.1.Q8_0.gguf
 pip install -r requirements.txt
 
-```bash
+```bash![Screenshot 2025-02-10 080926](https://github.com/user-attachments/assets/436649ec-616f-4638-9b99-cf86242d4fec)
+
 conda create --name chatbot_env python=3.9
 conda activate chatbot_env
 ```
@@ -45,3 +46,8 @@ Chatbot-Relinns/
 │
 ├── .gitignore                 # Git ignore file to exclude unnecessary files
 └── README.md                  # Project documentation
+
+
+![Uploading Screenshot 2025-02-10 080926.png…]()
+![Screenshot 2025-02-10 081203](https://github.com/user-attachments/assets/1b3259e2-b2cb-4f0f-997a-41f1fcbe8ec0)
+
