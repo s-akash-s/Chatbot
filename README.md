@@ -48,6 +48,7 @@ Chatbot-Relinns/
 └── README.md                  # Project documentation
 
 
-![Uploading Screenshot 2025-02-10 080926.png…]()
+
 ![Screenshot 2025-02-10 081203](https://github.com/user-attachments/assets/1b3259e2-b2cb-4f0f-997a-41f1fcbe8ec0)
+![Screenshot 2025-02-10 080926](https://github.com/user-attachments/assets/e0a659b2-da7d-4672-aa70-0ada8a538d95)
 
